@@ -3,8 +3,10 @@
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
 </p>
-<h1 align="center">Hi 👋, I'm santosh paul</h1>
-<h3 align="center">A passionate full from India</h3>
+<h1 align="center">Hi there 👋<br/>
+I am Santosh Paul, a Devops Engineer from 🇮🇳   passionate about developing production-ready applications with 1+ years of professional onsite as well as remote working experience. 🎯
+
+I mostly work with Docker, Jenkins , Linux and Cloud based technologies.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulsantosh263&label=Profile%20views&color=0e75b6&style=flat" alt="paulsantosh263" /> </p>
 
