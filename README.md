@@ -1,5 +1,4 @@
 <h1 align="center">Hey Everyone 👋, I'm Aditya Jaiswal</h1>
-<div align="center"> <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Youtube%20Channel%20Banner.png"> </div>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector.
   
 </div>
