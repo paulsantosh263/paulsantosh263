@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, I'm Aditya Jaiswal</h1>
+<h1 align="center">Hey Everyone 👋, I'm Santosh Paul</h1>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector.
   
 </div>
