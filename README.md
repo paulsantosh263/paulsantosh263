@@ -8,10 +8,6 @@
 <div align="center">
  <a href="https://www.linkedin.com/in/santosh-paul-53317b197/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-<h1 align="center">Hi there 👋<br/>
-I am Santosh Paul, a Devops Engineer from 🇮🇳   passionate about developing production-ready applications with 1+ years of professional onsite as well as remote working experience. 🎯
-
-I mostly work with Docker, Jenkins , Linux and Cloud based technologies.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulsantosh263&label=Profile%20views&color=0e75b6&style=flat" alt="paulsantosh263" /> </p>
 
